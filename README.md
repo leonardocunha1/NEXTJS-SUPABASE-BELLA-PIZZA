@@ -2,7 +2,7 @@
 
 **Bella Pizza** é um site para uma pizzaria que oferece uma experiência completa de pedidos online. Desenvolvido com Next.js, Supabase, Tailwind CSS e várias outras tecnologias, este projeto proporciona uma interface interativa e moderna.
 
-## [Clique aqui para visitar o projeto hospedado](https://leonardocunha1.github.io/projeto-burger-HTML-CSS-JS)
+## [Clique aqui para visitar o projeto hospedado](https://projeto-pizzaria-bella-pizza.vercel.app/)
 
 > [!IMPORTANT]
 > Os arquivos .env e de autenticação foram retirados do projeto, ou seja, nesse repositório só estão os componentes que foram utilizados para construção deste.
