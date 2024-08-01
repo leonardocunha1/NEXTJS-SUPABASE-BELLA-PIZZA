@@ -35,4 +35,20 @@
 - Implementar cookies para não perder os itens do carrinho ao recarregar ou sair da página.
 - Implementar login com credenciais, além do login com o google.
 - Implementar a área administrativa (será feita em breve).
+
+## Imagens Layout Site (Desktop)
+<p>Seção da página principal</p>
+<img src="/imagensSite/Site-1.png" alt="Descrição da Imagem" width="500px">
+<p>Seção cardápio</p>
+<img src="/imagensSite/Site-2.png" alt="Descrição da Imagem" width="500px">
+<p>Seção pizza cardápio</p>
+<img src="/imagensSite/Site-3.png" alt="Descrição da Imagem" width="500px">
+<p>Seção carrinho</p>
+<img src="/imagensSite/Site-4.png" alt="Descrição da Imagem" width="500px">
+<p>Seção revisar pedido</p>
+<img src="/imagensSite/Site-5.png" alt="Descrição da Imagem" width="500px">
+<p>Seção pedido criado</p>
+<img src="/imagensSite/Site-6.png" alt="Descrição da Imagem" width="500px">
+<p>Seção meus pedidos</p>
+<img src="/imagensSite/Site-7.png" alt="Descrição da Imagem" width="500px">
   
