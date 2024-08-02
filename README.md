@@ -19,6 +19,8 @@
 - **React Toastify**: Biblioteca para exibição de notificações no estilo toast.
 - **React Hook Form**: Biblioteca para gerenciamento de formulários e validação.
 - **Framer Motion**: Biblioteca para animações no React.
+- **Context API**
+- **Reducer**
 
 ## Funcionalidades
 
